@@ -1,6 +1,5 @@
 import socket
 import datetime
-import time
 
 def system_seconds_since_1900():
     """
